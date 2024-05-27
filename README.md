@@ -112,7 +112,7 @@
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/King2090/Madara_bot_md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](video unavailable yet)***
-5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md).  `FIXED! ✔️`***
+5.  ***Deploy on [`HEROKU`](https://xlcon-v3-deloy.vercel.app/).  `FIXED! ✔️`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
