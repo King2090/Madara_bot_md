@@ -1,43 +1,44 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> 𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮 </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/King2090/Madara_bot_md">𝐶𝑅𝛯𝛥𝑇𝛯𝐷 𝐵𝑌 𝐵𝑅𝑌𝛥𝛮𝑇 𝑇𝛯𝐶𝛨</a></h3> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
+<h4 align="center"> ✔️ 𝛮𝛩 𝛨𝛯𝑅𝛩𝛫𝑈 𝐵𝛥𝛮𝑆 ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮" height="400" src="https://telegra.ph/file/b697ff541aa4f2cf57942.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/King2090/Madara_bot_md">
+    <img src="https://img.shields.io/github/forks/
+     https://github.com/King2090/Madara_bot_md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/.King2090/MADAR_BOT_MD/stargazers"> 
+     <img src="https://img.shields.io/github/stars/King2090/MADARA-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="MADARA_Md is free to use" href=""  target="_blank">
+    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/Tiktok/Account/followers/KING BRYANT42" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Bryant Tech}/count.svg" alt="Bryant Tech :: Visitor's Count" /></p>
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/King2090">
+ <img title="Owner" src="https://img.shields.io/badge/Bryant tech-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/Bryant tech">
+    <img src="https://img.shields.io/github/followers/Bryant tech?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -53,7 +54,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Madara MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,7 +64,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/King2090/Madara_bot_md"><b>Suhail-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -74,7 +75,7 @@
   <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=koyeb" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
- <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
+ <a href="https://bryant-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -109,9 +110,9 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
+3.  ***Click [`FORK`](https://github.com/King2090/Madara_bot_md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](video unavailable yet)***
+5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=Bryant2090).  `FIXED! ✔️`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
@@ -138,17 +139,15 @@
 - If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
 
 
-
-
 <h2 align="center"> ⚠️ NOTE  </h2>
 
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- ***MADARA-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`***
+- ***In that case, I'm not responsible for banning your account.***
+- ***Use Suhail-Md at your own risk by keeping this warning in mind.***
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: MADARA_MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
