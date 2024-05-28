@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="">
     <img alt="𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮" height="400" src="https://telegra.ph/file/b697ff541aa4f2cf57942.jpg">
   </a>
 </p>
